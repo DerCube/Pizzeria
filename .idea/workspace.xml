@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d635e466-35cf-4419-99e8-67c2a2d80aa4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pizzeria.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kunde.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Normal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pizzeria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spezial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Steinofen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Normal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Normal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pizzeria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pizzeria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spezial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spezial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
